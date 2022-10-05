@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/glopezf](github.com/glopezf)
 
-- 📝 I regularly write articles on [lopez-correro.com](https://lopez-correro.com)
+- 📝 I regularly write articles on [lopez-correro.com](lopez-correro.com/)
 
 - 💬 Ask me about **PHP, SQL Server,**
 
