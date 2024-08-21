@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **The MPLC**
 
-- 🌱 I’m currently learning **ethical hacking, javascript, react**
+- 🌱 I’m currently learning **cybersecurity, javascript, python among others**
 
 - 👨‍💻 All of my projects are available at [github.com/glopezf](github.com/glopezf)
 
-- 📝 I regularly write articles on [lopez-correro.com](lopez-correro.com/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ankeorum/)
 
 - 💬 Ask me about **PHP, SQL Server,**
 
