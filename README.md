@@ -11,12 +11,12 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ankeorum/)
 
-- 💬 Ask me about **PHP, SQL Server,**
+- 💬 Ask me about **PHP, SQL Server, Cybersecurity, Data Protection**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankeorum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankeorum" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gonzalo-lópez-franco-97631053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-lópez-franco-97631053" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankeorum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-lópez-franco-97631053" height="30" width="40" /></a>
 <a href="https://fb.com/ankeorum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankeorum" height="30" width="40" /></a>
 <a href="https://instagram.com/ankeorum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankeorum" height="30" width="40" /></a>
 </p>
