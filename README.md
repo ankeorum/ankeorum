@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glopezf&label=Profile%20views&color=0e75b6&style=flat" alt="glopezf" /> </p>
 
-- 🔭 I’m currently working on **The MPLC**
+- I’m currently working on **Specialist Risk Group Ltd.**
 
-- 🌱 I’m currently learning **cybersecurity, javascript, python among others**
+- I’m currently learning **cybersecurity, javascript, python among others**
 
-- 👨‍💻 All of my projects are available at [github.com/glopezf](github.com/glopezf)
+- All of my projects are available at [github.com/glopezf](github.com/glopezf and at [github.com/ankeorum](github.com/ankeorum).
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ankeorum/)
+- I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ankeorum/)
 
-- 💬 Ask me about **PHP, SQL Server, Cybersecurity, Data Protection**
+- Ask me about **PHP, SQL Server, Cybersecurity, Data Protection**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
