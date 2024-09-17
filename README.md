@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glopezf&label=Profile%20views&color=0e75b6&style=flat" alt="glopezf" /> </p>
 
-- I’m currently working on **Specialist Risk Group Ltd.**
+- I’m currently working on **The MPLC, Ltd.**
 
 - I’m currently learning **cybersecurity, javascript, python among others**
 
