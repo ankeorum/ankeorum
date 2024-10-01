@@ -5,9 +5,9 @@
 
 - I’m currently working on **The MPLC, Ltd.**
 
-- I’m currently learning **cybersecurity, javascript, python among others**
+- I’m currently learning **cybersecurity, javascript, python, bash among others**
 
-- All of my projects are available at [github.com/glopezf](github.com/glopezf and at [github.com/ankeorum](github.com/ankeorum).
+- All of my projects are available at [github.com/ankeorum](github.com/ankeorum).
 
 - I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ankeorum/)
 
